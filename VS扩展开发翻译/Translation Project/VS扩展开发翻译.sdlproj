@@ -8,7 +8,7 @@
           <MainTranslationProviderItem Uri="rysbaidumt:///?licfilepath=D%3a%5cApp%5cuserlic.licbd&amp;resendtranslated=False" State="" Enabled="true" />
         </CascadeEntryItem>
         <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="false" PerformNormalSearch="true">
-          <MainTranslationProviderItem Uri="sdltm.file:///C:/Users/guoyr/Desktop/VS扩展开发翻译/Translation Memory/EN-ZH/VisualStudioTranslationMemory.sdltm" Enabled="true" />
+          <MainTranslationProviderItem Uri="sdltm.file:///D:/GitRepositories/MSDN-Visual-Studio-/VS扩展开发翻译/Translation Memory/EN-ZH/VisualStudioTranslationMemory.sdltm" Enabled="true" />
         </CascadeEntryItem>
       </CascadeItem>
     </LanguageDirection>
@@ -18,7 +18,7 @@
       <Name>VS扩展开发术语库</Name>
       <SettingsXml>&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;TermbaseSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Path&gt;C:\Users\guoyr\Desktop\VS扩展开发翻译\Termbase\EN-ZH\VS扩展开发术语库.sdltb&lt;/Path&gt;
+  &lt;Path&gt;D:\GitRepositories\MSDN-Visual-Studio-\VS扩展开发翻译\Termbase\EN-ZH\VS扩展开发术语库.sdltb&lt;/Path&gt;
   &lt;IsOpen&gt;false&lt;/IsOpen&gt;
   &lt;Filter&gt;0&lt;/Filter&gt;
   &lt;FilterHighlight&gt;false&lt;/FilterHighlight&gt;
@@ -32,7 +32,7 @@
       <Name>Visual Studio Term</Name>
       <SettingsXml>&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;TermbaseSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Path&gt;C:\Users\guoyr\Desktop\VS扩展开发翻译\Termbase\EN-ZH\Visual Studio Term.sdltb&lt;/Path&gt;
+  &lt;Path&gt;D:\GitRepositories\MSDN-Visual-Studio-\VS扩展开发翻译\Termbase\EN-ZH\Visual Studio Term.sdltb&lt;/Path&gt;
   &lt;IsOpen&gt;false&lt;/IsOpen&gt;
   &lt;Filter&gt;0&lt;/Filter&gt;
   &lt;FilterHighlight&gt;false&lt;/FilterHighlight&gt;
@@ -317,7 +317,7 @@
           <Setting Id="SourceLanguages">en-US</Setting>
         </SettingsGroup>
         <SettingsGroup Id="ExportFilesSettings">
-          <Setting Id="ExportLocation">C:\Users\guoyr\Desktop\VS扩展开发翻译\译文\DOCX</Setting>
+          <Setting Id="ExportLocation">D:\GitRepositories\MSDN-Visual-Studio-\VS扩展开发翻译\译文\DOCX</Setting>
         </SettingsGroup>
       </SettingsBundle>
     </SettingsBundle>
@@ -412,6 +412,104 @@
         </SettingsGroup>
       </SettingsBundle>
     </SettingsBundle>
+    <SettingsBundle Guid="72255289-6da0-40da-b943-1ba7048b4e7f">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="ac043d5e-ed8f-4ee3-b82a-7841b658b749">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="069ce05a-ff39-4437-842f-7534e3b59d24">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="37e706c2-e343-4d0a-ad1b-0eaa34726d0a">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="dbd35eee-2d2c-4b48-9168-05ec9c62f35f">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="decfdf52-c411-415f-aadf-e16d34bc9918">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="d5f18351-fd1a-4352-8ba5-d1a16f709fd5">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
   </SettingsBundles>
   <InitialTaskTemplate Description="ComplexTask_Prepare_NoProjectTM_Description" Name="ComplexTask_Prepare_NoProjectTM_Name" Id="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM">
     <SubTaskTemplates>
@@ -430,11 +528,11 @@
   </AnalysisBands>
   <ManualTaskTemplates />
   <Users>
-    <User UserId="DESKTOP-EJ8QAU1\guoyr" FullName="Miao MIAOW" Description="" Email="3793781@qq.com" PhoneNumber="" EmailType="Smtp" />
+    <User UserId="DESKTOP-EJ8QAU1\guoyr" FullName="DESKTOP-EJ8QAU1\guoyr" EmailType="None" />
   </Users>
   <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false">
     <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
-      <MainTranslationProviderItem Uri="sdltm.file:///C:/Users/guoyr/Desktop/VS扩展开发翻译/Translation Memory/EN-ZH/VisualStudioTranslationMemory.sdltm" Enabled="true" />
+      <MainTranslationProviderItem Uri="sdltm.file:///D:/GitRepositories/MSDN-Visual-Studio-/VS扩展开发翻译/Translation Memory/EN-ZH/VisualStudioTranslationMemory.sdltm" Enabled="true" />
       <ProjectTranslationProviderItem Uri="sdltm.file:///Tm/zh-CN/VS扩展开发翻译_VisualStudioTranslationMemory.sdltm" Enabled="true" />
     </CascadeEntryItem>
     <CascadeEntryItem PerformConcordanceSearch="false" Penalty="0" PerformUpdate="false" PerformNormalSearch="true">
@@ -803,6 +901,419 @@
             <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
             <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
             <Translated Words="350" Characters="3315" Segments="56" Placeables="26" Tags="0" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="5deca06e-573e-4146-afd1-7778744080d7" Path="原文\" Role="Translatable" Name="7.1.Creating an Extension with a Menu Command.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="30fce4fe-408c-47a9-916d-8d07cda8c90c" SettingsBundleGuid="576658bb-77e5-43ed-848d-ffe96eab16ed" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="b9c92247-bf9e-4a52-8d87-44fe886d1aaa" IsAutoUpload="false" VersionNumber="1" Size="18829" FileName="7.1.Creating an Extension with a Menu Command.docx" PhysicalPath="en-US\原文\7.1.Creating an Extension with a Menu Command.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-07T10:24:58.3494671Z" FileTimeStamp="2017-07-07T10:24:29.6668034Z" />
+            <FileVersion Guid="d3fc30ec-aec8-492c-be18-c2cfd68bdcdf" IsAutoUpload="false" VersionNumber="2" Size="166278" FileName="7.1.Creating an Extension with a Menu Command.docx.sdlxliff" PhysicalPath="en-US\原文\7.1.Creating an Extension with a Menu Command.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-07T10:25:16.8962008Z" FileTimeStamp="2017-07-07T10:25:16.8760454Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" SettingsBundleGuid="72255289-6da0-40da-b943-1ba7048b4e7f" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="76c7d3a1-40f0-4854-a1b6-3dc7776a5d10" IsAutoUpload="false" VersionNumber="3" Size="166278" FileName="7.1.Creating an Extension with a Menu Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.1.Creating an Extension with a Menu Command.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-07T10:25:16.9138404Z" FileTimeStamp="2017-07-07T10:25:16.8760454Z" />
+            <FileVersion Guid="af9e16bd-b271-4cf7-bc9b-4207cbefe64a" IsAutoUpload="false" VersionNumber="4" Size="204232" FileName="7.1.Creating an Extension with a Menu Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.1.Creating an Extension with a Menu Command.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-07T10:25:39.9979381Z" FileTimeStamp="2017-07-07T10:25:39.9848984Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-07T10:25:39.9848984Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-07T10:25:39.9848984Z" AnalysisStatus="Complete">
+            <Total Words="997" Characters="7403" Segments="147" Placeables="121" Tags="71" />
+            <Repetitions Words="20" Characters="135" Segments="12" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="14" Characters="739" Segments="7" Placeables="7" Tags="0" />
+            <Exact Words="99" Characters="1344" Segments="37" Placeables="27" Tags="0" />
+            <Fuzzy>
+              <CountData Words="19" Characters="83" Segments="2" Placeables="3" Tags="3" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="1" Characters="13" Segments="1" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="844" Characters="5089" Segments="88" Placeables="84" Tags="68" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-08T15:15:22.0508463Z" Status="Complete">
+            <Unspecified Words="1" Characters="13" Segments="1" Placeables="0" Tags="-71" />
+            <Draft Words="-1" Characters="-13" Segments="-1" Placeables="0" Tags="0" />
+            <Translated Words="997" Characters="7403" Segments="147" Placeables="121" Tags="71" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="03c68f20-58cc-4981-a72c-dd2bf3278930" Path="原文\" Role="Translatable" Name="7.2.Adding a Menu to the Visual Studio Menu Bar.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" SettingsBundleGuid="906d5515-94e0-4433-af5b-3d49e5e00225" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="853902ef-7629-45e5-b60b-0ce98dd94f7b" IsAutoUpload="false" VersionNumber="1" Size="21793" FileName="7.2.Adding a Menu to the Visual Studio Menu Bar.docx" PhysicalPath="en-US\原文\7.2.Adding a Menu to the Visual Studio Menu Bar.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T07:36:34.5569694Z" FileTimeStamp="2017-07-09T07:35:59.1340723Z" />
+            <FileVersion Guid="c122bb4f-14e8-40c1-8836-fbced949a6a7" IsAutoUpload="false" VersionNumber="2" Size="115468" FileName="7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" PhysicalPath="en-US\原文\7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T07:36:53.2134409Z" FileTimeStamp="2017-07-09T07:36:53.1977788Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="80c8098b-3dc4-4511-98b1-cd6df454045e" SettingsBundleGuid="ac043d5e-ed8f-4ee3-b82a-7841b658b749" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="1c156dc2-a88f-4c4f-9c44-b160fcd0408b" IsAutoUpload="false" VersionNumber="3" Size="115468" FileName="7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T07:36:53.2290317Z" FileTimeStamp="2017-07-09T07:36:53.1977788Z" />
+            <FileVersion Guid="4caacfaf-339a-45b3-9297-3154777a60dc" IsAutoUpload="false" VersionNumber="4" Size="137765" FileName="7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.2.Adding a Menu to the Visual Studio Menu Bar.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T07:37:03.6523413Z" FileTimeStamp="2017-07-09T07:37:03.6523413Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-09T07:37:03.6523413Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-09T07:37:03.6523413Z" AnalysisStatus="Complete">
+            <Total Words="616" Characters="3796" Segments="86" Placeables="89" Tags="56" />
+            <Repetitions Words="24" Characters="111" Segments="3" Placeables="2" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="47" Characters="444" Segments="8" Placeables="8" Tags="0" />
+            <Exact Words="61" Characters="272" Segments="19" Placeables="15" Tags="4" />
+            <Fuzzy>
+              <CountData Words="13" Characters="75" Segments="2" Placeables="1" Tags="1" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="6" Characters="36" Segments="1" Placeables="1" Tags="0" />
+              <CountData Words="72" Characters="555" Segments="8" Placeables="21" Tags="18" />
+            </Fuzzy>
+            <New Words="393" Characters="2303" Segments="45" Placeables="41" Tags="33" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-09T08:26:29.5478473Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="-16" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="-4" />
+            <Translated Words="616" Characters="3796" Segments="86" Placeables="89" Tags="20" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="2ef8b894-d7ba-4992-95ca-14918c0b961d" Path="原文\" Role="Translatable" Name="7.7.Adding Icons to Menu Commands.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" SettingsBundleGuid="423fece2-e724-4e47-9cf8-95d8de33285e" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="9b7e03bf-5758-46b5-a4ea-7b7e85089bf9" IsAutoUpload="false" VersionNumber="1" Size="21957" FileName="7.7.Adding Icons to Menu Commands.docx" PhysicalPath="en-US\原文\7.7.Adding Icons to Menu Commands.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T08:54:25.0330509Z" FileTimeStamp="2017-07-09T08:54:09.3306641Z" />
+            <FileVersion Guid="a4a03a33-0966-400b-aaca-004af3ce3b71" IsAutoUpload="false" VersionNumber="2" Size="101548" FileName="7.7.Adding Icons to Menu Commands.docx.sdlxliff" PhysicalPath="en-US\原文\7.7.Adding Icons to Menu Commands.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T08:54:35.9178278Z" FileTimeStamp="2017-07-09T08:54:35.9178278Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="84c6c8dc-1545-436c-8882-4215eb30a0a1" SettingsBundleGuid="069ce05a-ff39-4437-842f-7534e3b59d24" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="aeb37156-05bb-4705-8e46-317724bba30a" IsAutoUpload="false" VersionNumber="3" Size="101548" FileName="7.7.Adding Icons to Menu Commands.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.7.Adding Icons to Menu Commands.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T08:54:35.933449Z" FileTimeStamp="2017-07-09T08:54:35.9178278Z" />
+            <FileVersion Guid="2924ee77-70a2-4c42-9300-5475fcdd534b" IsAutoUpload="false" VersionNumber="4" Size="117658" FileName="7.7.Adding Icons to Menu Commands.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.7.Adding Icons to Menu Commands.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-09T08:54:37.4648299Z" FileTimeStamp="2017-07-09T08:54:37.4492092Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-09T08:54:37.4492092Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-09T08:54:37.4492092Z" AnalysisStatus="Complete">
+            <Total Words="604" Characters="3346" Segments="76" Placeables="96" Tags="42" />
+            <Repetitions Words="25" Characters="139" Segments="4" Placeables="6" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="2" Characters="98" Segments="1" Placeables="1" Tags="0" />
+            <Exact Words="37" Characters="171" Segments="17" Placeables="8" Tags="0" />
+            <Fuzzy>
+              <CountData Words="19" Characters="127" Segments="3" Placeables="2" Tags="0" />
+              <CountData Words="10" Characters="85" Segments="2" Placeables="2" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="2" Characters="111" Segments="1" Placeables="1" Tags="0" />
+            </Fuzzy>
+            <New Words="509" Characters="2615" Segments="48" Placeables="76" Tags="42" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-09T11:40:58.8734554Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="604" Characters="3346" Segments="76" Placeables="96" Tags="42" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="bed8019c-53bc-44ac-b17d-f33c8952cc35" Path="原文\" Role="Translatable" Name="7.8.Changing the Text of a Menu Command.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" SettingsBundleGuid="972dee54-1f39-4c55-a56e-bbce21928503" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="7c8182c2-8861-497f-9593-d92643ecc3de" IsAutoUpload="false" VersionNumber="1" Size="21307" FileName="7.8.Changing the Text of a Menu Command.docx" PhysicalPath="en-US\原文\7.8.Changing the Text of a Menu Command.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T05:52:13.165155Z" FileTimeStamp="2017-07-10T05:51:55.9460331Z" />
+            <FileVersion Guid="763d1d5c-5132-4e98-b563-5b623d32ec91" IsAutoUpload="false" VersionNumber="2" Size="98081" FileName="7.8.Changing the Text of a Menu Command.docx.sdlxliff" PhysicalPath="en-US\原文\7.8.Changing the Text of a Menu Command.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T05:52:32.1663219Z" FileTimeStamp="2017-07-10T05:52:32.1506948Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="91d78f1f-767a-4774-9e50-6b40587b69ef" SettingsBundleGuid="37e706c2-e343-4d0a-ad1b-0eaa34726d0a" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="633f3b49-3893-4b05-aecb-0204f1c96846" IsAutoUpload="false" VersionNumber="3" Size="98081" FileName="7.8.Changing the Text of a Menu Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.8.Changing the Text of a Menu Command.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T05:52:32.1819217Z" FileTimeStamp="2017-07-10T05:52:32.1506948Z" />
+            <FileVersion Guid="1502a509-6b13-4574-ba9a-6a9b81e902f1" IsAutoUpload="false" VersionNumber="4" Size="120921" FileName="7.8.Changing the Text of a Menu Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.8.Changing the Text of a Menu Command.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T05:52:42.2852092Z" FileTimeStamp="2017-07-10T05:52:42.2695829Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-10T05:52:42.2695829Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-10T05:52:42.2695829Z" AnalysisStatus="Complete">
+            <Total Words="360" Characters="2785" Segments="70" Placeables="39" Tags="18" />
+            <Repetitions Words="8" Characters="51" Segments="1" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="28" Characters="203" Segments="14" Placeables="4" Tags="0" />
+            <Exact Words="29" Characters="165" Segments="18" Placeables="6" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="17" Characters="228" Segments="3" Placeables="0" Tags="0" />
+              <CountData Words="32" Characters="308" Segments="5" Placeables="2" Tags="0" />
+              <CountData Words="7" Characters="229" Segments="3" Placeables="3" Tags="1" />
+            </Fuzzy>
+            <New Words="239" Characters="1601" Segments="26" Placeables="24" Tags="17" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-10T06:44:54.3059499Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="-13" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="-4" />
+            <Translated Words="360" Characters="2785" Segments="70" Placeables="39" Tags="17" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="f4d2b3a0-90b1-49d5-8839-7948b7ceaa46" Path="原文\" Role="Translatable" Name="7.9.Changing the Appearance of a Command.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="f3a3654d-8474-4dde-9579-0bd989ff52bf" SettingsBundleGuid="1a221a0f-10b5-4fe2-99d2-be9345d82fe0" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="c7c1b10b-7e10-4470-bea1-8425cb3f8421" IsAutoUpload="false" VersionNumber="1" Size="21931" FileName="7.9.Changing the Appearance of a Command.docx" PhysicalPath="en-US\原文\7.9.Changing the Appearance of a Command.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T07:27:38.9698901Z" FileTimeStamp="2017-07-10T07:27:05.3602756Z" />
+            <FileVersion Guid="a2c10715-67cd-42dc-bd92-4f46baaefa76" IsAutoUpload="false" VersionNumber="2" Size="117896" FileName="7.9.Changing the Appearance of a Command.docx.sdlxliff" PhysicalPath="en-US\原文\7.9.Changing the Appearance of a Command.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T07:27:48.4846588Z" FileTimeStamp="2017-07-10T07:27:48.4846588Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" SettingsBundleGuid="dbd35eee-2d2c-4b48-9168-05ec9c62f35f" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="f959af6c-56be-4c70-8cbb-7b5c8757f519" IsAutoUpload="false" VersionNumber="3" Size="117896" FileName="7.9.Changing the Appearance of a Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.9.Changing the Appearance of a Command.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T07:27:48.5002842Z" FileTimeStamp="2017-07-10T07:27:48.4846588Z" />
+            <FileVersion Guid="5d70d71a-daa3-4515-bd7d-dbc0b086ff1f" IsAutoUpload="false" VersionNumber="4" Size="140054" FileName="7.9.Changing the Appearance of a Command.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.9.Changing the Appearance of a Command.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-10T07:27:50.0317013Z" FileTimeStamp="2017-07-10T07:27:50.0317013Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-10T07:27:50.0317013Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-10T07:27:50.0317013Z" AnalysisStatus="Complete">
+            <Total Words="435" Characters="3506" Segments="79" Placeables="57" Tags="26" />
+            <Repetitions Words="14" Characters="172" Segments="3" Placeables="2" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="12" Characters="367" Segments="4" Placeables="3" Tags="0" />
+            <Exact Words="43" Characters="296" Segments="24" Placeables="9" Tags="0" />
+            <Fuzzy>
+              <CountData Words="15" Characters="76" Segments="3" Placeables="6" Tags="6" />
+              <CountData Words="26" Characters="153" Segments="4" Placeables="0" Tags="0" />
+              <CountData Words="30" Characters="358" Segments="5" Placeables="7" Tags="0" />
+              <CountData Words="3" Characters="194" Segments="2" Placeables="2" Tags="0" />
+            </Fuzzy>
+            <New Words="292" Characters="1890" Segments="34" Placeables="28" Tags="20" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-10T08:19:21.5504807Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="435" Characters="3506" Segments="79" Placeables="57" Tags="26" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="1d851e47-e695-4cb9-b449-fc368c06427d" Path="原文\" Role="Translatable" Name="7.10.Updating the User Interface.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" SettingsBundleGuid="24fa5e41-d80e-4922-9b4c-bd4012d76be1" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="d115dab6-8f35-49c8-a792-f1e73a1d3454" IsAutoUpload="false" VersionNumber="1" Size="21521" FileName="7.10.Updating the User Interface.docx" PhysicalPath="en-US\原文\7.10.Updating the User Interface.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-11T02:48:53.8032435Z" FileTimeStamp="2017-07-11T02:48:30.2910204Z" />
+            <FileVersion Guid="0a39f03c-f73f-4286-874a-4c84e7793346" IsAutoUpload="false" VersionNumber="2" Size="114108" FileName="7.10.Updating the User Interface.docx.sdlxliff" PhysicalPath="en-US\原文\7.10.Updating the User Interface.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-11T02:49:08.6616551Z" FileTimeStamp="2017-07-11T02:49:08.6616551Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" SettingsBundleGuid="decfdf52-c411-415f-aadf-e16d34bc9918" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="325208ce-38d5-4159-ac38-c064666e07dd" IsAutoUpload="false" VersionNumber="3" Size="114108" FileName="7.10.Updating the User Interface.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.10.Updating the User Interface.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-11T02:49:08.6773146Z" FileTimeStamp="2017-07-11T02:49:08.6616551Z" />
+            <FileVersion Guid="36efdae1-5352-4069-be35-098a6a3ecf2c" IsAutoUpload="false" VersionNumber="4" Size="128072" FileName="7.10.Updating the User Interface.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.10.Updating the User Interface.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-11T02:49:19.043424Z" FileTimeStamp="2017-07-11T02:49:19.0278332Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-11T02:49:19.0278332Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-11T02:49:19.0278332Z" AnalysisStatus="Complete">
+            <Total Words="419" Characters="3812" Segments="69" Placeables="65" Tags="26" />
+            <Repetitions Words="49" Characters="627" Segments="11" Placeables="12" Tags="2" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="2" Characters="123" Segments="2" Placeables="1" Tags="0" />
+            <Exact Words="19" Characters="183" Segments="11" Placeables="3" Tags="1" />
+            <Fuzzy>
+              <CountData Words="12" Characters="73" Segments="2" Placeables="1" Tags="1" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="40" Characters="780" Segments="8" Placeables="17" Tags="0" />
+              <CountData Words="1" Characters="87" Segments="1" Placeables="1" Tags="0" />
+            </Fuzzy>
+            <New Words="296" Characters="1939" Segments="34" Placeables="30" Tags="22" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-11T04:02:31.6703872Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="419" Characters="3812" Segments="69" Placeables="65" Tags="26" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="47ee366d-cdb0-44ac-939b-91e14d2212d8" Path="原文\" Role="Translatable" Name="7.11.Localizing Menu Commands.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="WordprocessingML v. 2">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="68ada364-295a-4aeb-b69d-180393b20041" SettingsBundleGuid="c7264ae5-bb91-439a-a4f8-02f6b033ed1d" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="001a45c3-b9e2-4633-9637-678e8f8098e4" IsAutoUpload="false" VersionNumber="1" Size="22561" FileName="7.11.Localizing Menu Commands.docx" PhysicalPath="en-US\原文\7.11.Localizing Menu Commands.docx" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-19T06:43:36.6831603Z" FileTimeStamp="2017-07-19T06:39:13.5863001Z" />
+            <FileVersion Guid="67e83c38-3f81-4f7f-8021-f83fd2555956" IsAutoUpload="false" VersionNumber="2" Size="155973" FileName="7.11.Localizing Menu Commands.docx.sdlxliff" PhysicalPath="en-US\原文\7.11.Localizing Menu Commands.docx.sdlxliff" Comment="" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-19T06:43:58.3120222Z" FileTimeStamp="2017-07-19T06:43:58.3120222Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" SettingsBundleGuid="d5f18351-fd1a-4352-8ba5-d1a16f709fd5" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="0b7276d4-5731-416a-a1fd-67840eff713c" IsAutoUpload="false" VersionNumber="3" Size="155973" FileName="7.11.Localizing Menu Commands.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.11.Localizing Menu Commands.docx.sdlxliff" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-19T06:43:58.3432712Z" FileTimeStamp="2017-07-19T06:43:58.3120222Z" />
+            <FileVersion Guid="4c011ff6-28a8-4172-9f52-6be66a3723e9" IsAutoUpload="false" VersionNumber="4" Size="184675" FileName="7.11.Localizing Menu Commands.docx.sdlxliff" PhysicalPath="zh-CN\原文\7.11.Localizing Menu Commands.docx.sdlxliff" Comment="Created by '应用 PerfectMatch+预翻译文件+分析文件+填充项目翻译记忆库'" CreatedBy="DESKTOP-EJ8QAU1\guoyr" CreatedAt="2017-07-19T06:44:17.5109197Z" FileTimeStamp="2017-07-19T06:44:17.4952998Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2017-07-19T06:44:17.4952998Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2017-07-19T06:44:17.4952998Z" AnalysisStatus="Complete">
+            <Total Words="644" Characters="5077" Segments="120" Placeables="104" Tags="62" />
+            <Repetitions Words="42" Characters="456" Segments="10" Placeables="4" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="2" Characters="18" Segments="2" Placeables="0" Tags="0" />
+            <Exact Words="47" Characters="308" Segments="31" Placeables="22" Tags="1" />
+            <Fuzzy>
+              <CountData Words="3" Characters="16" Segments="1" Placeables="0" Tags="0" />
+              <CountData Words="8" Characters="99" Segments="2" Placeables="1" Tags="0" />
+              <CountData Words="21" Characters="145" Segments="3" Placeables="4" Tags="0" />
+              <CountData Words="3" Characters="182" Segments="2" Placeables="2" Tags="0" />
+            </Fuzzy>
+            <New Words="518" Characters="3853" Segments="69" Placeables="71" Tags="61" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2017-07-19T08:51:50.7860795Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="644" Characters="5077" Segments="120" Placeables="104" Tags="62" />
             <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
             <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
             <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
@@ -1531,6 +2042,610 @@
       </Files>
       <OutputFiles>
         <OutputFile LanguageFileGuid="d205a022-d4a8-453a-b379-74877cfc7b23" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="ae8ccf03-815d-4b94-92b6-f8c6c224f6e3" Status="Completed" CompletedAt="2017-07-07T10:25:00.9353948Z" PercentComplete="100" CreatedAt="2017-07-07T10:24:58.5652772Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-07T10:24:58.84961Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="bf9e4031-27ed-41ee-9de9-6aa04a20d21b" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="30fce4fe-408c-47a9-916d-8d07cda8c90c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="30fce4fe-408c-47a9-916d-8d07cda8c90c" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="d02b4e4d-64bf-46e3-8ac5-8cdb33d0d59f" Status="Completed" CompletedAt="2017-07-07T10:25:16.8962008Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-07T10:25:14.2568237Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-07T10:25:14.6413225Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="a4e2fd2b-e2eb-48fb-b500-d65dbdd73455" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="30fce4fe-408c-47a9-916d-8d07cda8c90c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="30fce4fe-408c-47a9-916d-8d07cda8c90c" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="64a2417c-03de-4b10-8c97-2c56695ff56c" Status="Completed" CompletedAt="2017-07-07T10:25:16.9450993Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-07T10:25:14.2568237Z" PredecessorTaskGuid="d02b4e4d-64bf-46e3-8ac5-8cdb33d0d59f" StartedAt="2017-07-07T10:25:16.8982065Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="33108aff-c1e6-4145-8a57-8b5cc2b2e038" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="30fce4fe-408c-47a9-916d-8d07cda8c90c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="b4242c93-7441-4643-a864-388c3aeee896" Status="Completed" CompletedAt="2017-07-07T10:25:40.0806197Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-07T10:25:14.2568237Z" PredecessorTaskGuid="64a2417c-03de-4b10-8c97-2c56695ff56c" StartedAt="2017-07-07T10:25:16.9450993Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="8c4d9da5-903b-4319-89cf-628e00ba20ab" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="f26036c1-24b6-4e0b-ad6d-c04b93370d64" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(4).xml" />
+        <Report Guid="2acf6aca-0265-4c17-9f9a-955e753ecccf" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(4).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000">
+        <Messages Level="Warning" Message="找不到翻译记忆库以查找语言对 English (United States)-&gt;Chinese (Simplified, China) 的翻译。" Source="预翻译文件" />
+      </Result>
+    </AutomaticTask>
+    <AutomaticTask Guid="309aaafb-1d5d-4df6-906e-de86fceee446" Status="Completed" CompletedAt="2017-07-08T15:17:25.1250295Z" PercentComplete="100" CreatedAt="2017-07-08T15:17:23.0651247Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-08T15:17:23.3034483Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="644d3c01-e6b8-4b68-92ee-131c3bc5fb46" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="2db1d67b-10b2-432d-80ed-ca0bdb4657e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="e8f3298f-cf4e-4371-b7c8-17f37ad9af7f" Status="Completed" CompletedAt="2017-07-09T07:36:37.5584393Z" PercentComplete="100" CreatedAt="2017-07-09T07:36:34.8538748Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T07:36:35.1664158Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="f9ed00bd-cfd7-45c3-a980-f2bcf11e0d27" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="55b65244-4bdf-4043-a5fb-e730383e474a" Status="Completed" CompletedAt="2017-07-09T07:36:53.2134409Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T07:36:50.1974635Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T07:36:50.6037572Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="7ffa0284-2e4e-4eff-9e8c-f955d201b01b" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="89bacf06-214b-42ea-a576-579792054f68" Status="Completed" CompletedAt="2017-07-09T07:36:53.260291Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T07:36:50.1974635Z" PredecessorTaskGuid="55b65244-4bdf-4043-a5fb-e730383e474a" StartedAt="2017-07-09T07:36:53.2134409Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="d85ca0e2-f9bb-47fb-85c9-e3548ce106d0" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="26f8e049-c0c6-4808-9d8a-eb10d1ce7842" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="80c8098b-3dc4-4511-98b1-cd6df454045e" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="46f7f9a6-db8f-4cd9-b752-5715fe54005b" Status="Completed" CompletedAt="2017-07-09T07:37:03.7929485Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T07:36:50.1974635Z" PredecessorTaskGuid="89bacf06-214b-42ea-a576-579792054f68" StartedAt="2017-07-09T07:36:53.260291Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="b0ad591f-8633-42e2-9d94-1dd4f06dc021" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="80c8098b-3dc4-4511-98b1-cd6df454045e" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="80c8098b-3dc4-4511-98b1-cd6df454045e" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="00cb55f5-0e1d-4e0d-9d28-b071e51f2376" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(5).xml" />
+        <Report Guid="5879c445-9845-4307-ba39-129a69b7d1d8" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(5).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="509c639d-64e7-43ce-8adb-83a199d46d4d" Status="Completed" CompletedAt="2017-07-09T08:27:26.1151403Z" PercentComplete="100" CreatedAt="2017-07-09T08:27:24.2555341Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T08:27:24.4430831Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="a3e2c861-5344-4978-98a0-f33d61c58199" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="80c8098b-3dc4-4511-98b1-cd6df454045e" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="80c8098b-3dc4-4511-98b1-cd6df454045e" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="be04e214-d621-40bd-a54c-a8ee3d7025c7" Status="Completed" CompletedAt="2017-07-09T08:54:26.0072026Z" PercentComplete="100" CreatedAt="2017-07-09T08:54:25.0355622Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T08:54:25.0455881Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="33234ebc-69f6-4663-8bd5-1890130aac57" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="86e4d5e3-fe7c-49b1-8016-aae37fb36cc5" Status="Completed" CompletedAt="2017-07-09T08:54:35.9178278Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T08:54:34.0738483Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T08:54:34.1519774Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="14358674-4082-49c6-a5a2-0afd4cfcbf01" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="4baedbc0-e863-49f2-ac9c-641198639665" Status="Completed" CompletedAt="2017-07-09T08:54:35.9647083Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T08:54:34.0738483Z" PredecessorTaskGuid="86e4d5e3-fe7c-49b1-8016-aae37fb36cc5" StartedAt="2017-07-09T08:54:35.933449Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="a8fa3938-4a69-4ee3-a343-6eed11cf7a33" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="e511e323-d6dd-4971-9830-2a46dfc0b0a9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="84c6c8dc-1545-436c-8882-4215eb30a0a1" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="ab2a89ce-0971-4855-b709-ed9a030098a1" Status="Completed" CompletedAt="2017-07-09T08:54:37.5429679Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-09T08:54:34.0738483Z" PredecessorTaskGuid="4baedbc0-e863-49f2-ac9c-641198639665" StartedAt="2017-07-09T08:54:35.9802987Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="9a6a9d22-8f7f-40d1-8f28-76c3424c71e6" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="84c6c8dc-1545-436c-8882-4215eb30a0a1" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="84c6c8dc-1545-436c-8882-4215eb30a0a1" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="7f9b2fbe-6dd5-4bbc-abe7-c6569ecada9d" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(6).xml" />
+        <Report Guid="d379c028-d7d3-4e6c-98b9-85ed4f5cc133" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(6).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="235ae019-05e7-4448-830a-619de8c7a11c" Status="Completed" CompletedAt="2017-07-09T11:42:07.077452Z" PercentComplete="100" CreatedAt="2017-07-09T11:42:06.3899153Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-09T11:42:06.4211358Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="b90b3302-d25f-439e-8a56-df2f97820a5b" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="84c6c8dc-1545-436c-8882-4215eb30a0a1" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="84c6c8dc-1545-436c-8882-4215eb30a0a1" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="deec58e4-6b83-49da-a809-6ec7b0e030c6" Status="Completed" CompletedAt="2017-07-10T05:52:16.8530001Z" PercentComplete="100" CreatedAt="2017-07-10T05:52:13.4151655Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T05:52:13.6964088Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="2211de7e-17fe-450c-afc3-d40cedd5dfba" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="98a9aace-22b8-4d00-bfb1-8b84a5a6202e" Status="Completed" CompletedAt="2017-07-10T05:52:32.1663219Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T05:52:29.2004386Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T05:52:29.5910677Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="4ebe31be-d128-4b35-b5cc-d33bbb48d291" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="660676c3-486e-4621-891c-6e7ca978d09e" Status="Completed" CompletedAt="2017-07-10T05:52:32.2131678Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T05:52:29.2004386Z" PredecessorTaskGuid="98a9aace-22b8-4d00-bfb1-8b84a5a6202e" StartedAt="2017-07-10T05:52:32.1663219Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="b5680be5-d6d4-4e37-88fd-196e9db3a420" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="937ac3c6-6fd2-479b-b6d1-a18c3f3fce3d" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="91d78f1f-767a-4774-9e50-6b40587b69ef" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="45f1cf6b-b13e-4fc1-bca3-c2bd0f0c417a" Status="Completed" CompletedAt="2017-07-10T05:52:42.4102558Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T05:52:29.2004386Z" PredecessorTaskGuid="660676c3-486e-4621-891c-6e7ca978d09e" StartedAt="2017-07-10T05:52:32.2131678Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="f942a9fc-7ac9-4ca5-b08b-5d9685f7a923" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="91d78f1f-767a-4774-9e50-6b40587b69ef" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="91d78f1f-767a-4774-9e50-6b40587b69ef" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="df7d845d-a5c8-48fa-a807-1baf1cedecb7" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(7).xml" />
+        <Report Guid="37cfe60f-aaf4-458e-b9b3-30928a425ef8" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(7).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="8228e85a-fc1f-4b18-ba14-16fe4d60bc6e" Status="Completed" CompletedAt="2017-07-10T06:45:09.0027149Z" PercentComplete="100" CreatedAt="2017-07-10T06:45:07.3147699Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T06:45:07.4084911Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="3dd5f7f0-20ad-4809-a2be-58a2b0ead50c" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="91d78f1f-767a-4774-9e50-6b40587b69ef" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="91d78f1f-767a-4774-9e50-6b40587b69ef" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="80c72425-ec34-4a74-b3b0-dfa2bd1ac489" Status="Completed" CompletedAt="2017-07-10T07:27:39.1886997Z" PercentComplete="100" CreatedAt="2017-07-10T07:27:38.9698901Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T07:27:38.9698901Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="e6600244-3dc3-40ec-9001-8d5115dee7b3" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="f3a3654d-8474-4dde-9579-0bd989ff52bf" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="f3a3654d-8474-4dde-9579-0bd989ff52bf" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="4172a6a5-1d6f-4180-8ec9-493900901a15" Status="Completed" CompletedAt="2017-07-10T07:27:48.4846588Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T07:27:47.7658313Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T07:27:47.7971217Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="87e3035a-54f3-4fa2-9524-059a72369a65" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="f3a3654d-8474-4dde-9579-0bd989ff52bf" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="f3a3654d-8474-4dde-9579-0bd989ff52bf" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="2e18a7af-c5d0-478e-8a15-882a5424e7d9" Status="Completed" CompletedAt="2017-07-10T07:27:48.5315375Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T07:27:47.7658313Z" PredecessorTaskGuid="4172a6a5-1d6f-4180-8ec9-493900901a15" StartedAt="2017-07-10T07:27:48.5002842Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="e5d90044-5c50-4795-9ea9-a8440bd98ab9" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="f3a3654d-8474-4dde-9579-0bd989ff52bf" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="36297d2b-02cd-475a-97ae-3aef6cf43b89" Status="Completed" CompletedAt="2017-07-10T07:27:50.0629905Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-10T07:27:47.7658313Z" PredecessorTaskGuid="2e18a7af-c5d0-478e-8a15-882a5424e7d9" StartedAt="2017-07-10T07:27:48.5315375Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="b8e760b4-340b-4dc2-9479-940b309422bb" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="9c6be5ba-f8ab-497c-ad45-9fcf3d57a047" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(8).xml" />
+        <Report Guid="0f575967-16bd-475b-a542-13edc61a818e" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(8).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="c3a66f6c-897e-4c9a-ba27-b0940644a217" Status="Completed" CompletedAt="2017-07-10T08:28:41.9490048Z" PercentComplete="100" CreatedAt="2017-07-10T08:28:41.08528Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-10T08:28:41.1165333Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="1db7f7b3-d56a-4987-bbf1-a63d26dcbbf7" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="f6f18e29-4d77-4cd6-b182-f00f4567d9ee" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="f526ce75-3c4a-42ef-a008-e6e1c60ad1c2" Status="Completed" CompletedAt="2017-07-11T02:48:56.7262716Z" PercentComplete="100" CreatedAt="2017-07-11T02:48:53.9908037Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-11T02:48:54.2564216Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="414f0c84-fbe3-438b-87f6-b122506adf24" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="be1a09bb-a683-4edb-8f81-3f5a07c21281" Status="Completed" CompletedAt="2017-07-11T02:49:08.6616551Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-11T02:49:05.6925833Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-11T02:49:06.0989133Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="0e07669e-0a03-41b7-a848-c25739818a7b" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="68b2d51d-3edb-4cc5-b010-0b61337472f1" Status="Completed" CompletedAt="2017-07-11T02:49:08.7085611Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-11T02:49:05.6925833Z" PredecessorTaskGuid="be1a09bb-a683-4edb-8f81-3f5a07c21281" StartedAt="2017-07-11T02:49:08.6773146Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="3fbf14ab-4e95-4e56-9a10-31fb44a3568e" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="a5dbb1d3-90c9-4787-990a-fc87b5c544eb" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="bc075189-ddf2-4ee8-97ac-e5eebc02ed57" Status="Completed" CompletedAt="2017-07-11T02:49:19.1841016Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-11T02:49:05.6925833Z" PredecessorTaskGuid="68b2d51d-3edb-4cc5-b010-0b61337472f1" StartedAt="2017-07-11T02:49:08.7241562Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="5430cfee-a4ff-4154-92ed-2579a68c0079" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="7e19bc19-d3de-4db2-9dd1-ed3166dd201b" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(9).xml" />
+        <Report Guid="8afce2c2-91b8-4960-8e32-216ef1c64d29" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(9).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="01364e98-3c4c-4f35-b995-71f6824a0e0b" Status="Completed" CompletedAt="2017-07-11T04:02:59.3742853Z" PercentComplete="100" CreatedAt="2017-07-11T04:02:57.5436241Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-11T04:02:57.6686648Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="66dd2b05-6a91-4709-871b-e8911e6d8202" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="aa78f3d8-e11d-44e1-a19e-b303d3a550a3" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="4c04e191-d8c1-4186-bcc3-065e3db38141" Status="Completed" CompletedAt="2017-07-19T06:43:39.2928738Z" PercentComplete="100" CreatedAt="2017-07-19T06:43:36.88633Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-19T06:43:37.1363366Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="8cd6c0f5-bcdc-4024-967c-710126605f2f" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="68ada364-295a-4aeb-b69d-180393b20041" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="68ada364-295a-4aeb-b69d-180393b20041" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="8f47c7e9-4fa9-4186-8d8e-b3157354cea6" Status="Completed" CompletedAt="2017-07-19T06:43:58.3120222Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-19T06:43:55.7648712Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-19T06:43:56.1242841Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="8d8eb689-250d-4ac8-bb48-be08b02eca95" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="68ada364-295a-4aeb-b69d-180393b20041" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="68ada364-295a-4aeb-b69d-180393b20041" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="d90ba256-8686-44cc-ad35-e957592f55e9" Status="Completed" CompletedAt="2017-07-19T06:43:58.3745566Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-19T06:43:55.7648712Z" PredecessorTaskGuid="8f47c7e9-4fa9-4186-8d8e-b3157354cea6" StartedAt="2017-07-19T06:43:58.3276821Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="969812d4-55a8-4190-8cea-a3e47db64429" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="68ada364-295a-4aeb-b69d-180393b20041" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="811b20f6-0cc8-4778-9489-2a7e11536150" Status="Completed" CompletedAt="2017-07-19T06:44:17.6515989Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare" PercentComplete="100" CreatedAt="2017-07-19T06:43:55.7648712Z" PredecessorTaskGuid="d90ba256-8686-44cc-ad35-e957592f55e9" StartedAt="2017-07-19T06:43:58.3745566Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.ProjectTm</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="12ba7e17-70ec-438d-9ef5-e7a50502ef25" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="5dc9dd68-e8e6-414e-9a8b-4a5cf4c618fc" Name="预翻译文件报告" Description="将翻译记忆库应用到文件的结果。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\预翻译文件 en-US_zh-CN(10).xml" />
+        <Report Guid="e0cf8136-481a-4b03-807c-72cd8030066a" Name="分析文件报告" Description="显示关于可通过应用翻译记忆库获得的预期利用的统计数据。" TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="eff2f984-764a-47c2-96ad-4b209cf9f9b7" PhysicalPath="Reports\分析文件 en-US_zh-CN(10).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="fe24cbc0-55db-43dd-96a0-511078a83dd0" Status="Completed" CompletedAt="2017-07-19T08:52:10.0833075Z" PercentComplete="100" CreatedAt="2017-07-19T08:52:08.1612262Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2017-07-19T08:52:08.2706095Z" CreatedBy="DESKTOP-EJ8QAU1\guoyr">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation.ExportFiles</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="6d385dbb-74e3-438b-a042-2061e71618ee" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="b4f8f79f-ab6a-4b7a-8e40-215b48a1a88f" Purpose="WorkFile" />
       </OutputFiles>
       <Reports />
       <Parameters />
